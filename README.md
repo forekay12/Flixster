@@ -42,3 +42,5 @@ Describe any challenges encountered while building the app.
 
 ### Notes
 I had a hard time enabling auto layout but eventually figured out a way to make it work.
+Here is it running on an ipad:
+<img src="http://g.recordit.co/903SxgrOCT.gif" width=250><br>
