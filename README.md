@@ -35,12 +35,14 @@ Describe any challenges encountered while building the app.
 
 #### BONUS
 - [X] (2pt) User can view the app on various device sizes and orientations.
-- [X] (1pt) Run your app on a real device.
+- [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
 <img src="http://g.recordit.co/qLGpTNhZBV.gif" width=250><br>
 
 ### Notes
-I had a hard time enabling auto layout but eventually figured out a way to make it work.
+I tried running the app on my own iphone but because I use an iphone 6 the iOS was too low to work. I then tried lowering the iOS of the project, but it caused issues and failed when trying to build.
+
+I also initially had a hard time enabling auto layout but asked for some help and watched the tutorial which helped me figured it out.
 Here is it running on an ipad:
 <img src="http://g.recordit.co/903SxgrOCT.gif" width=250><br>
