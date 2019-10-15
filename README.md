@@ -45,5 +45,6 @@ I tried running the app on my own iphone but because I use an iphone 6 the iOS w
 
 I also initially had a hard time enabling auto layout but asked for some help and watched the tutorial which helped me figured it out.
 Here is it running on an ipad and a different orientation:
+
 <img src="http://g.recordit.co/903SxgrOCT.gif" width=250><br>
 <img src="http://g.recordit.co/Vh5JvbUX5u.gif" width=250><br>
