@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/rm3YNk7xyI.gif" width=250><br>
 
 ### Notes
 I accidentally deleted an outlet and didn't fix the corresponding connection giving my app a runtime failure. This casued me to get stuck for quite awhile but reaching out on slack helped me solve the issue.
